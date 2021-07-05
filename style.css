@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Markazi+Text:wght@500&family=Sansita&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Markazi+Text:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Markazi+Text:wght@500&family=Sansita&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Contrail+One&family=Markazi+Text:wght@500&family=Sansita&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Contrail+One&family=Creepster&family=Markazi+Text:wght@500&family=Sansita&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Boogaloo&family=Contrail+One&family=Creepster&family=Markazi+Text:wght@500&family=Sansita&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze:wght@500&family=Metal+Mania&display=swap');
+
+.menubar {
+    display: flex;
+    margin-left: 360px;
+    position: fixed;
+}
+
+@font-face {
+    font-family: Myfirstfont;
+    src: url("Oswald-Regular.ttf");
+}
+
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+li {
+    list-style-type: none;
+    list-style: none;
+}
+
+.g-mail {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: darkslateblue;
+}
+
+.mo_n {
+    font-weight: bold;
+    font-size: 20px;
+    color: darkslateblue;
+    cursor: pointer;
+}
+
+.myc_img {
+    height: 400px;
+    width: 300px;
+    border: rgb(68, 68, 68) solid 7px;
+    border-radius: 3px;
+}
+
+.cricket_info,
+.skating_info {
+    width: 400px;
+    color: slateblue;
+    font-size: 23px;
+    font-family: 'Markazi Text';
+
+}
+
+.skating_info {
+    margin-left: 320px;
+}
+
+.cricket_info {
+    margin-left: 220px;
+
+}
+
+.h_info {
+    display: flex;
+}
+
+.hom_1,
+.hob_2 {
+    height: 300px;
+    width: 500px;
+    border: rgb(68, 68, 68) solid 7px;
+    border-radius: 3px;
+}
+
+.hob_2 {
+    margin-right: 200px;
+}
+
+.bb,
+.j,
+.pu,
+.kc1,
+.u {
+    height: 380px;
+    width: 260px;
+    border: rgb(68, 68, 68) solid 7px;
+    border-radius: 3px;
+}
+
+.bb {
+    margin-right: 220px;
+}
+
+iframe {
+    border: rgb(68, 68, 68) solid 7px;
+    border-radius: 3px;
+}
+
+.j {
+    margin-right: 220px;
+
+}
+
+.vi1 {
+    height: 300px;
+    width: 600px;
+    margin-right: 200px;
+}
+
+.u {
+    margin-right: 220px;
+}
+
+ul {
+    list-style: none;
+    list-style-type: none;
+}
+
+.m_1,
+.m_2 {
+    margin-top: 10px;
+}
+
+.hm_i {
+    border: rgb(68, 68, 68) solid 5px;
+    border-radius: 10px;
+}
+
+.my_info {
+    margin-right: 340px;
+    margin-left: 340px;
+    font-family: 'Markazi Text';
+    color: darkslateblue;
+    font-size: 23px;
+}
+
+.m2,
+.m3,
+.m4,
+.m5 {
+    font-family: 'Metal Mania', cursive;
+    font-size: 24px;
+    text-decoration: none;
+    cursor: pointer;
+    color: orangered;
+    background-color: transparent;
+    border: transparent;
+    font-weight: 500;
+
+}
+
+.m1 {
+    font-size: 26px;
+    font-family: Myfirstfont;
+    text-decoration: none;
+    cursor: pointer;
+    color: green;
+    background-color: transparent;
+    border: transparent;
+    font-weight: 500;
+}
+
+
+
+
+.m2:hover,
+.m3:hover,
+.m4:hover,
+.m5:hover {
+    color: orange;
+    font-size: 28px;
+}
+
+.m1:hover {
+    color: orange;
+    font-size: 30px;
+}
+
+.m1 {
+    margin-left: 50px;
+}
+
+
+.m2 {
+    margin-left: 40px;
+}
+
+.m3 {
+    margin-left: 40px;
+}
+
+.m4 {
+    margin-left: 40px;
+}
+
+.m5 {
+    margin-left: 40px;
+}
